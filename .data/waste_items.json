@@ -125,5 +125,86 @@
     ],
     "disposalInstructions": "Remove all ink and toner cartridges before recycling. Toner cartridges can be returned to their manufacturers for credit. Send the hardware chassis to standard e-waste hubs.",
     "facts": "Unused toner contains microscopic plastic powders which can damage human lungs if inhaled. Recycling printer cartridges prevents them from clogging waterways for 450 years."
+  },
+  {
+    "id": "smartwatches",
+    "name": "Smartwatches & Fitness Trackers",
+    "category": "electronics",
+    "description": "Wearable fitness trackers and smartwatches equipped with mini lithium batteries, small OLED displays, and heart-rate sensors.",
+    "recyclability": 80,
+    "toxicity": "Medium",
+    "preciousMetals": [
+      "Gold",
+      "Copper",
+      "Silicon"
+    ],
+    "hazards": [
+      "Lithium",
+      "Nickel"
+    ],
+    "disposalInstructions": "Remove straps if they are silicone or leather. Keep the electronic core intact. Take to a specialized electronics drop-off box or retail store collection bin.",
+    "facts": "Smartwatches represent one of the fastest-growing categories of wearable e-waste, yet their tiny size makes them easy for users to mistakenly toss in standard trash bins."
+  },
+  {
+    "id": "game-consoles",
+    "name": "Game Consoles",
+    "category": "electronics",
+    "description": "Home video game systems (e.g. PlayStation, Xbox, Nintendo Switch) consisting of CPUs, GPUs, disk drives, power supplies, and controllers.",
+    "recyclability": 90,
+    "toxicity": "High",
+    "preciousMetals": [
+      "Gold",
+      "Silver",
+      "Copper",
+      "Steel",
+      "Aluminum"
+    ],
+    "hazards": [
+      "Lead",
+      "Flame Retardants",
+      "Beryllium"
+    ],
+    "disposalInstructions": "Reset the console to wipe all personal accounts and saved data. Remove any game disks left inside. Drop off at certified e-waste facilities or retail take-back programs.",
+    "facts": "Recycling a single gaming console prevents the mining of pounds of raw metals and keeps brominated flame retardants from leaking into landfill environments."
+  },
+  {
+    "id": "microwaves",
+    "name": "Microwave Ovens",
+    "category": "appliances",
+    "description": "High-power kitchen cooking appliances featuring a magnetron tube, heavy high-voltage capacitor, turntable motor, and steel body.",
+    "recyclability": 85,
+    "toxicity": "Medium",
+    "preciousMetals": [
+      "Copper",
+      "Steel",
+      "Aluminum"
+    ],
+    "hazards": [
+      "Beryllium Oxide (inside magnetron)",
+      "Lead"
+    ],
+    "disposalInstructions": "Never disassemble the internal circuitry yourself, as the high-voltage capacitor can store a lethal electrical charge even when unplugged. Deliver intact to an appliance recycling depot.",
+    "facts": "Over 80% of a microwave's weight is high-quality recyclable steel, which can be melted down and re-used indefinitely with 75% less energy than producing new steel."
+  },
+  {
+    "id": "lcd-tvs",
+    "name": "Smart TVs & LCD Displays",
+    "category": "appliances",
+    "description": "Modern flat-panel liquid crystal display televisions with LED backlights, logic boards, and remote controls.",
+    "recyclability": 70,
+    "toxicity": "High",
+    "preciousMetals": [
+      "Copper",
+      "Gold",
+      "Indium",
+      "Aluminum"
+    ],
+    "hazards": [
+      "Lead",
+      "Mercury (in older CCFL models)",
+      "Liquid Crystals"
+    ],
+    "disposalInstructions": "Handle carefully to prevent cracking the glass panel. Recycle along with computers at authorized electronic drop-off centers or local municipal collection drives.",
+    "facts": "Flat-screen displays contain Indium, a rare and critical chemical element used in transparent conductive electrodes, which is highly valuable to reclaim."
   }
 ]

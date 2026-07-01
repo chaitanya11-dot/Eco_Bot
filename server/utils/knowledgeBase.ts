@@ -60,7 +60,11 @@ const ITEM_ALIASES: Record<string, string[]> = {
   "crt-monitors": ["crt", "monitor", "tv", "television", "screen", "display"],
   "li-ion-batteries": ["battery", "batteries", "powerbank", "power bank", "lithium", "li-ion"],
   "chargers-cables": ["charger", "cable", "wire", "cord", "adapter", "usb", "cables", "chargers"],
-  "printers": ["printer", "scanner", "printers", "scanners"]
+  "printers": ["printer", "scanner", "printers", "scanners"],
+  "smartwatches": ["smartwatch", "fitness tracker", "smart watch", "apple watch", "fitbit"],
+  "game-consoles": ["game console", "playstation", "xbox", "nintendo", "console", "gaming console"],
+  "microwaves": ["microwave", "oven", "kitchen appliance", "appliances"],
+  "lcd-tvs": ["tv", "television", "smart tv", "lcd tv", "led tv", "flat screen"]
 };
 
 export async function processChatQuery(query: string): Promise<string> {
