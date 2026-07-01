@@ -54,6 +54,15 @@ const FAQ_INTENTS: IntentResponse[] = [
   }
 ];
 
+const ITEM_ALIASES: Record<string, string[]> = {
+  "smartphones": ["smartphone", "smart phone", "phone", "mobile", "cellphone", "cell phone", "iphone", "android"],
+  "laptops": ["laptop", "notebook", "computer", "pc", "macbook"],
+  "crt-monitors": ["crt", "monitor", "tv", "television", "screen", "display"],
+  "li-ion-batteries": ["battery", "batteries", "powerbank", "power bank", "lithium", "li-ion"],
+  "chargers-cables": ["charger", "cable", "wire", "cord", "adapter", "usb", "cables", "chargers"],
+  "printers": ["printer", "scanner", "printers", "scanners"]
+};
+
 export async function processChatQuery(query: string): Promise<string> {
   const normalizedQuery = query.toLowerCase().trim();
 
@@ -79,6 +88,16 @@ export async function processChatQuery(query: string): Promise<string> {
     if (normalizedQuery.includes(singularName) && singularName.length > 3) {
       score += 8;
     }
+    
+    // Check defined aliases
+    const aliases = ITEM_ALIASES[item.id] || [];
+    for (const alias of aliases) {
+      if (normalizedQuery.includes(alias)) {
+        score += 10;
+        break;
+      }
+    }
+
     // Keyword match inside description
     const keywordsInQuery = normalizedQuery.split(/\s+/);
     keywordsInQuery.forEach(kw => {
