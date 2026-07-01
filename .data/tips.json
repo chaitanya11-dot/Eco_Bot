@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tip-1",
+    "title": "The 1-In-1-Out Rule",
+    "content": "Before purchasing a brand new smartphone, tablet, or accessory, challenge yourself to recycle or safely donate one obsolete device you currently have gathering dust in drawers.",
+    "category": "reduction",
+    "isDaily": true
+  },
+  {
+    "id": "tip-2",
+    "title": "Secure Your Personal Data",
+    "content": "Always back up your private files and execute a certified factory reset before parting with any computerized device. Remove microSD cards and SIM cards to protect your identity.",
+    "category": "awareness",
+    "isDaily": false
+  },
+  {
+    "id": "tip-3",
+    "title": "Tape Battery Terminals First",
+    "content": "When storing batteries for recycling, place a piece of clear tape over the positive and negative metal terminals. This simple step prevents them from touching, generating sparks, and igniting fires.",
+    "category": "recycling",
+    "isDaily": false
+  },
+  {
+    "id": "tip-4",
+    "title": "Modular & Repairable is Better",
+    "content": "Support manufacturers that publish repair manuals, sell original replacement parts directly, and design modular hardware (e.g., Fairphone, Framework Laptops) that are easy to open and upgrade.",
+    "category": "reduction",
+    "isDaily": false
+  },
+  {
+    "id": "tip-5",
+    "title": "Repurpose Obsolete Devices",
+    "content": "Don't toss out an old functional smartphone. Convert it into a dedicated home security camera, an offline digital music player, an e-reader, or a permanent desk clock.",
+    "category": "reuse",
+    "isDaily": false
+  }
+]

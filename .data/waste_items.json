@@ -1,0 +1,129 @@
+[
+  {
+    "id": "smartphones",
+    "name": "Smartphones",
+    "category": "electronics",
+    "description": "Personal mobile communication devices loaded with dense electronics, rare earth materials, and lithium-ion batteries.",
+    "recyclability": 95,
+    "toxicity": "High",
+    "preciousMetals": [
+      "Gold",
+      "Silver",
+      "Copper",
+      "Palladium",
+      "Platinum"
+    ],
+    "hazards": [
+      "Lead",
+      "Cadmium",
+      "Arsenic",
+      "Beryllium",
+      "Brominated Flame Retardants"
+    ],
+    "disposalInstructions": "Perform a full factory reset to delete personal data. Remove protective cases. Do NOT puncture the battery. Deliver to an authorized electronics recycler or cell phone carrier drop-off bin.",
+    "facts": "One ton of cell phones (about 6,000 units) contains about 130 kg of copper, 3.5 kg of silver, and 340 grams of gold — far richer than raw gold ore! Recycling them saves massive mining greenhouse emissions."
+  },
+  {
+    "id": "laptops",
+    "name": "Laptops & Notebooks",
+    "category": "electronics",
+    "description": "Portable personal computers containing microprocessors, high-resolution LCD/OLED screens, keyboards, and lithium battery cells.",
+    "recyclability": 90,
+    "toxicity": "High",
+    "preciousMetals": [
+      "Gold",
+      "Silver",
+      "Copper",
+      "Tin",
+      "Nickel"
+    ],
+    "hazards": [
+      "Lead",
+      "Mercury (in older CCFL backlights)",
+      "Cadmium",
+      "Flame Retardants"
+    ],
+    "disposalInstructions": "Back up your data, then securely erase the hard drive using DBAN or built-in encryption wipes. If the battery is swollen or removable, handle with care. Deliver to a dedicated computer recycling drive.",
+    "facts": "Recycling 1 million laptops saves the energy equivalent to the electricity used by more than 3,500 US homes in a single year. Only 20% of global laptop waste is documented as properly collected."
+  },
+  {
+    "id": "crt-monitors",
+    "name": "Old CRT Monitors & TVs",
+    "category": "appliances",
+    "description": "Legacy Cathode Ray Tube displays with heavy glass screens and vacuum tubes.",
+    "recyclability": 60,
+    "toxicity": "Critical",
+    "preciousMetals": [
+      "Copper",
+      "Iron"
+    ],
+    "hazards": [
+      "Lead",
+      "Barium",
+      "Phosphorus",
+      "Cadmium"
+    ],
+    "disposalInstructions": "Extremely heavy and fragile. Never break the glass funnel as it releases highly toxic phosphor dust and explosive vacuum release. Store in a dry place and transport carefully to a municipal hazardous waste facility.",
+    "facts": "A single average-sized CRT monitor can contain between 2 to 4 kilograms (4 to 8 pounds) of toxic lead in its glass! It is one of the most hazardous classes of e-waste."
+  },
+  {
+    "id": "li-ion-batteries",
+    "name": "Lithium-Ion Batteries",
+    "category": "batteries",
+    "description": "Rechargeable batteries commonly found in phones, tablets, power tools, and electric vehicles.",
+    "recyclability": 85,
+    "toxicity": "Critical",
+    "preciousMetals": [
+      "Cobalt",
+      "Lithium",
+      "Nickel",
+      "Copper",
+      "Aluminum"
+    ],
+    "hazards": [
+      "Lithium Hexafluorophosphate",
+      "Organic Solvents",
+      "Heavy Metals"
+    ],
+    "disposalInstructions": "NEVER dispose of in municipal trash bins. They can puncture or short-circuit in garbage trucks, triggering catastrophic, toxic lithium chemical fires. Tape the metal terminals with electrical tape and place them in dedicated battery collection tubes at supermarkets or recycling centers.",
+    "facts": "Lithium-ion batteries are responsible for hundreds of trash truck and landfill fires worldwide every year. When safely recycled, over 95% of cobalt and lithium can be retrieved for new batteries."
+  },
+  {
+    "id": "chargers-cables",
+    "name": "Chargers, Adapters & Cables",
+    "category": "accessories",
+    "description": "Power bricks, USB cords, Ethernet lines, and peripheral copper wiring.",
+    "recyclability": 98,
+    "toxicity": "Low",
+    "preciousMetals": [
+      "Copper",
+      "Aluminum"
+    ],
+    "hazards": [
+      "PVC (Polyvinyl Chloride)",
+      "Phthalates"
+    ],
+    "disposalInstructions": "Bundle them together to prevent tangling in recycling sorting machinery (tanglers). Drop off at standard e-waste bins. Copper recovery is highly efficient.",
+    "facts": "The copper inside cables is extremely high-grade and infinitely recyclable. Dropping them off helps stop raw copper open-pit mining, which devastates rainforests."
+  },
+  {
+    "id": "printers",
+    "name": "Printers & Scanners",
+    "category": "it_telecom",
+    "description": "Document imaging systems with plastic casings, toner cartridges, print heads, and scanner glass.",
+    "recyclability": 75,
+    "toxicity": "Medium",
+    "preciousMetals": [
+      "Copper",
+      "Silver",
+      "Steel"
+    ],
+    "hazards": [
+      "Microplastic Toners",
+      "Carbon Black",
+      "Flame Retardants"
+    ],
+    "disposalInstructions": "Remove all ink and toner cartridges before recycling. Toner cartridges can be returned to their manufacturers for credit. Send the hardware chassis to standard e-waste hubs.",
+    "facts": "Unused toner contains microscopic plastic powders which can damage human lungs if inhaled. Recycling printer cartridges prevents them from clogging waterways for 450 years."
+  }
+]

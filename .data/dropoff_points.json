@@ -1,0 +1,71 @@
+[
+  {
+    "id": "point-1",
+    "name": "GreenEarth EcoHub Center",
+    "address": "742 Evergreen Terrace, Sector 4",
+    "city": "Metropolis",
+    "phone": "(555) 123-4567",
+    "hours": "Mon - Sat: 8:00 AM - 6:00 PM",
+    "acceptedItems": [
+      "Smartphones",
+      "Laptops",
+      "Batteries",
+      "Cables",
+      "Keyboards",
+      "Printers"
+    ],
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "id": "point-2",
+    "name": "Metro E-Waste Depot",
+    "address": "105 Industrial Parkway, Dock C",
+    "city": "Metropolis",
+    "phone": "(555) 987-6543",
+    "hours": "Mon - Fri: 9:00 AM - 5:00 PM, Sat: 10:00 AM - 4:00 PM",
+    "acceptedItems": [
+      "Refrigerators",
+      "Microwaves",
+      "CRT Monitors",
+      "Smartphones",
+      "Printers"
+    ],
+    "lat": 40.7306,
+    "lng": -73.9352
+  },
+  {
+    "id": "point-3",
+    "name": "Re-Cell Battery & Tech Dropoff",
+    "address": "482 Retail Blvd, Space 12 (Inside Supermarket Mall)",
+    "city": "Metropolis",
+    "phone": "(555) 246-8101",
+    "hours": "Daily: 9:00 AM - 9:00 PM",
+    "acceptedItems": [
+      "Batteries",
+      "Smartphones",
+      "Chargers & Cables",
+      "Accessories"
+    ],
+    "lat": 40.7589,
+    "lng": -73.9851
+  },
+  {
+    "id": "point-4",
+    "name": "Municipal Recycling & Hazardous Waste Center",
+    "address": "22 Waste Management Way",
+    "city": "Eco-City",
+    "phone": "(555) 369-1470",
+    "hours": "Wed & Sat only: 7:00 AM - 3:00 PM",
+    "acceptedItems": [
+      "CRT Monitors",
+      "Appliances",
+      "Batteries",
+      "Laptops",
+      "Printers",
+      "Industrial Electronics"
+    ],
+    "lat": 34.0522,
+    "lng": -118.2437
+  }
+]

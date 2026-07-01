@@ -1,0 +1,26 @@
+[
+  {
+    "id": "seed-1",
+    "nickname": "GreenWarrior",
+    "score": 8,
+    "totalQuestions": 8,
+    "level": "Green Champion",
+    "completedAt": "2026-07-01T19:33:49.658Z"
+  },
+  {
+    "id": "seed-2",
+    "nickname": "E-cycleAdept",
+    "score": 6,
+    "totalQuestions": 8,
+    "level": "E-Waste Learner",
+    "completedAt": "2026-07-01T19:33:49.659Z"
+  },
+  {
+    "id": "seed-3",
+    "nickname": "ObsoleteTamer",
+    "score": 5,
+    "totalQuestions": 8,
+    "level": "E-Waste Learner",
+    "completedAt": "2026-07-01T19:33:49.659Z"
+  }
+]

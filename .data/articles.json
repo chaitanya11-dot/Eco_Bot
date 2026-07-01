@@ -1,0 +1,32 @@
+[
+  {
+    "id": "article-1",
+    "title": "The Poison in Our Pockets: Inside the E-Waste Crisis",
+    "excerpt": "Explore the hidden journey of our electronic trash and how heavy metals leak into groundwater tables globally.",
+    "content": "We buy electronics at an astonishing pace. Every year, humans generate over 60 million metric tons of e-waste—a mountain growing three times faster than standard trash. But when we discard a device carelessly, where does it end up?\n\nOften, electronic waste undergoes illegal international shipping to developing countries with relaxed environmental laws. There, informal workers (including children) burn wires in open-air pits to melt copper and bathe circuit boards in toxic acid to leach gold. \n\nThis crude processing releases highly toxic heavy metals like:\n- **Lead**: A potent neurotoxin that attacks the nervous systems of children and damages cognitive growth.\n- **Mercury**: Concentrates in waterways, bioaccumulating in fish, which causes severe neurological damage in consumers.\n- **Cadmium**: Causes permanent kidney failure and bone softening when absorbed.\n\nBy recycling your e-waste through authorized, R2-certified facilities, you ensure these toxic components are isolated and captured safely, keeping them out of vulnerable communities and ecosystems.",
+    "category": "impact",
+    "author": "Elena Rostov",
+    "readTime": "5 min read",
+    "imageUrl": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "article-2",
+    "title": "Mining Our Trash: Why Urban Mining Beats Traditional Ore Extraction",
+    "excerpt": "Why the richest metal deposits on Earth are no longer deep underground, but trapped in our landfills.",
+    "content": "To manufacture a single smartphone, mining companies must dig up, blast, transport, and refine more than 34 kilograms (75 pounds) of high-grade raw mineral ores deep from the Earth. This destructive process strips forests, pollutes rivers with heavy acidic tailings, and consumes astronomical fossil fuels.\n\nNow, compare this with **Urban Mining**—the process of recovering valuable materials directly from discarded electronics:\n1. **Purity**: One ton of discarded smartphones contains up to 100 times more gold than a ton of gold-bearing geological ore!\n2. **Carbon Offset**: Extracting metal through urban recycling emits up to 80% fewer greenhouse gases than primary underground mining.\n3. **Conserving Habitats**: Using recycled copper, cobalt, and lithium preserves endangered habitats from open-pit mining in places like the Congo and Indonesia.\n\nUrban mining turns waste into resources, fostering a true circular economy. The next time you recycle a tablet, you are actively preventing heavy industrial blasting in the world's most pristine forests.",
+    "category": "educational",
+    "author": "Marcus Chen",
+    "readTime": "4 min read",
+    "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "article-3",
+    "title": "Extended Producer Responsibility (EPR): Holding Tech Giants Accountable",
+    "excerpt": "What is EPR and how are worldwide legislations forcing manufacturers to design for easy recycling?",
+    "content": "For decades, device manufacturers designed electronics with 'planned obsolescence'—making them cheap to produce, hard to repair, and easy to discard. However, a major regulatory shift called **Extended Producer Responsibility (EPR)** is changing the landscape.\n\nEPR laws mandate that electronics manufacturers must establish and fund collection systems to take back their hardware at the end of its life-cycle. \n\nThis model creates strong financial incentives for manufacturers to:\n- **Design for Disassembly**: Use snap-on parts instead of excessive permanent industrial glues, making manual battery extraction easier.\n- **Eliminate Toxins**: Replace halogenated flame retardants and heavy metals with safe organic alternatives to reduce recycling liabilities.\n- **Incorporate Recycled Plastics**: Re-use consumer plastics, creating a market pull for recycled polymers.\n\nIn regions with active EPR legislation (like the EU, California, and India), recycling bins are widespread and accessible. As consumers, we can support this change by only purchasing from brands that offer free, convenient take-back mailers and repair guarantees.",
+    "category": "guides",
+    "author": "Sarah Jenkins",
+    "readTime": "4 min read",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=800"
+  }
+]
